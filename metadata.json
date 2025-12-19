@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of AyurCare - Ayurvedic Support Chatbot",
+  "description": "A serene and supportive Ayurvedic wellness assistant that helps users understand therapies, Doshas, and manages their wellness journey through a modern chat interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
